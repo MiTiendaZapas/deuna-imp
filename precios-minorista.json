@@ -1,7 +1,7 @@
 {
   "_ayuda": [
     "Precios de Deuna_imp (tienda al público con precio por mayor desde 3 pares surtidos).",
-    "Zapatillas: $49.999 por unidad, $45.000 por mayor. Jordan 11: $65.000 / $62.000. Ojotas (Louis Vuitton y todas las demás): $42.000 / $39.000.",
+    "Zapatillas: $49.000 por unidad, $45.000 por mayor. Jordan 11: $65.000 / $62.000. Ojotas (Louis Vuitton y todas las demás): $42.000 / $39.000.",
     "Gana la PRIMERA regla que coincide, de arriba hacia abajo. 'contains': alguna de esas palabras aparece en el nombre. 'startsWith': el nombre empieza así (también con la marca adelante)."
   ],
   "wholesale": {
@@ -9,7 +9,7 @@
     "label": "Llevando 3 o más pares surtidos"
   },
   "unit": {
-    "default": 49999,
+    "default": 49000,
     "rules": [
       {
         "price": 65000,
